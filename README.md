@@ -34,7 +34,7 @@ Pneumonia-Predictor/
 │
 ├── app.py                           # Streamlit app
 ├── requirements.txt                 # Dependencies
-├── notebook.ipynb                   # Training / experimentation
+├── pneumonia_torch.ipynb            # Training / experimentation
 └── README.md
 ```
 
