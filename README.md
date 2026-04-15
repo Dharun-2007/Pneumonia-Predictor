@@ -31,7 +31,8 @@ Pneumonia-Predictor/
 │
 ├── backend/
 │   └── pneumonia_efficientnet.pth   # (not included in repo)
-│
+├──xray/
+|   └── dataset                      # (not included in repo)
 ├── app.py                           # Streamlit app
 ├── requirements.txt                 # Dependencies
 ├── pneumonia_torch.ipynb            # Training / experimentation
