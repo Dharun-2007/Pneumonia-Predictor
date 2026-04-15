@@ -151,5 +151,5 @@ This project is for educational purposes.
 
 ## 💡 Author
 
-**Dharun**  
+**Dharun K C**  
 Aspiring Machine Learning Engineer 🚀
