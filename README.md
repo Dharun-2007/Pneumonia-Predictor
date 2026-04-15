@@ -32,7 +32,7 @@ Pneumonia-Predictor/
 ├── backend/
 │   └── pneumonia_efficientnet.pth   # (not included in repo)
 ├──xray/
-|   └── dataset                      # (not included in repo)
+│   └── dataset                      # (not included in repo)
 ├── app.py                           # Streamlit app
 ├── requirements.txt                 # Dependencies
 ├── pneumonia_torch.ipynb            # Training / experimentation
@@ -86,7 +86,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run the Application
+## 4. Run the Application
 
 ```
 streamlit run app.py
@@ -145,7 +145,7 @@ This project is for educational purposes.
 
 ## 🙌 Acknowledgements
 
-- Chest X-ray dataset from kaggle 
+- Chest X-ray dataset from Kaggle 
 - PyTorch & Streamlit communities  
 
 ---
